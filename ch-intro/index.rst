@@ -30,6 +30,12 @@ Install the required Python packages::
 
     pip install -r requirements.txt
 
+I was unable to build a PDF using my regular TeXLive
+installation (``apt-get install texlive-full`` in Ubuntu 12.04).
+However, after setting up a clean, full `TeXLive 2012`_, everything went smoothly.
+
+.. _TeXLive 2012: http://www.tug.org/texlive/doc/texlive-en/texlive-en.html#installation
+
 Building
 ========
 
